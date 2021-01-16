@@ -47,6 +47,7 @@ const reducer = (state, action) => {
   }
 };
 
+// Gloabl component passes state down to all the pages
 const App = () => {
   return (
     <Global initialState={INITIAL_STATE} reducer={reducer}>
