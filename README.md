@@ -1,1 +1,10 @@
 # pupster-alts
+
+Pupster Hooks = useState hook -
+https://reactjs.org/docs/hooks-state.html
+
+Pupster useReducer = useReducer hook
+https://reactjs.org/docs/hooks-reference.html#usereducer
+
+Pupster Redux Alt = Global state using Context API and useReducer (state is at top level and shared between pages)
+https://reactjs.org/docs/context.html
